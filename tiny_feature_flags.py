@@ -17,7 +17,10 @@ Usage:
         show_pro_feature()
 """
 
+
 from __future__ import annotations
+
+__version__ = "0.1.0"
 
 import os
 import json
